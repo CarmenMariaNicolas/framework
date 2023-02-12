@@ -1,6 +1,6 @@
 <?php
 // Obtiene la instancia del objeto que guarda los datos de configuración
-$config = Config::singleton();
+//$config = Config::singleton();
 
 // Carpetas para los Controladores, los Modelos y las Vistas
 $config->set('controllersFolder', 'controllers/');
